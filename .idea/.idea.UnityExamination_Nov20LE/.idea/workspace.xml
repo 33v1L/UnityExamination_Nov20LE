@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699aa48b-bec8-4815-bae6-458099d92e72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MenuScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ReadMe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ReadMe.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/New Folder.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/New Folder/TileMap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/New Folder/TileMap.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/PlayerCharacter/Idle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/PlayerCharacter/Idle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/PlayerCharacter/Jump.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/PlayerCharacter/Jump.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/PlayerCharacter/walking.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/PlayerCharacter/walking.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityExamination_Nov20LE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExamination_Nov20LE/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +78,7 @@
       <updated>1795164813901</updated>
       <workItem from="1795164815444" duration="5000" />
       <workItem from="1795164827508" duration="12000" />
-      <workItem from="1795164899066" duration="391000" />
+      <workItem from="1795164899066" duration="1573000" />
     </task>
     <servers />
   </component>
